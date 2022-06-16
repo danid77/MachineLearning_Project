@@ -49,21 +49,15 @@
 
 
 - 인원: 진승범, 오세연, 윤상현, 최윤아, 문석민
-- 직책: 
-- 데이터: 
-- 주 역할:
-- 보조 역할: 
-- 추가 역할:
+- 데이터: PUGB
+- 역할: EDA, Modeling, Hyperparameter Tuning
 - 협업장소: 스파크 플러스
-- 소통: 
-- 저장소: 
-- 개발환경: 
-- 언어 :
-- 라이브러리:
-- 시각화 라이브러리: 
-- 시각화 도구: 
-- 웹 크롤링: 
-- 관리: 
+- 소통: 스파크 플러스
+- 저장소: git
+- 개발환경: vscode, jupyter notebook
+- 언어 : python
+- 라이브러리: numpy, pandas
+- 시각화 라이브러리: seaborn, matplotlib.pyplot
 
 <br>
 
