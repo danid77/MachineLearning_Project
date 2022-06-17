@@ -1,17 +1,22 @@
-# ML_Project
+<h1> ML_Project</h1>
 
-## 주관: 중소기업벤처부 이어드림 스쿨 2기
+<h2> 주관: 중소기업벤처부 이어드림 스쿨 2기</h2>
+
+---
 
 <br>
 
 ![image](https://user-images.githubusercontent.com/86671456/171619107-8d5506bf-349e-4163-9694-c3ad99adac9d.png)
 
+<h2>주제 : PUBG Finish Placement Prediction (Kernels Only)</h2>
 
-## Abstract
+
+
+<h2> Abstract</h2>
 
 <br>
 
-### Machine Learning Project 
+<h2> Machine Learning Project </h2>
 
 ---
 
