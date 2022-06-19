@@ -23,12 +23,12 @@
 
 |  프로젝트 순서 |     내용    |
 |:------------------:| -----|
-|문제 정의|PUGB Bettle Ground 게임의 유저  |
-|데이터 수집|제공된 데이터 |   
+|문제 정의|PUGB Bettle Ground 게임의 유저 승률 예측|
+|데이터 수집|해당 Kaggle 대회의 제공된 데이터 |   
 |데이터 전처리|Feature Engineering, 이상치 제거, 결측치 제거 |
-|모델 학습|하이퍼파라미터,데이터 나누기 |
+|모델 학습|Modeling : LinearRegression, Lasso, Ridge, LGBMRegressor, XGBRegressor, CatBoostRegressor, RandomForestRegressor|
 |모델 평가|캐글 채점|
-|모델 성능 향상|성능 지표, 하이퍼파라미터, 데이터 리터러시 재수정 |
+|모델 성능 향상| 하이퍼파라미터, 데이터 전처리 |
 
 
 <br>
@@ -37,14 +37,15 @@
 
 **공식기간: 2022.06.03 ~ 2022.06.21**
 
-
-- 인원: 진승범, 오세연, 윤상현, 최윤아, 문석민
-- 데이터: PUGB - train.csv, test.csv, simplesubmission
+- 인원 : 5명
+- 팀장 : 문석민
+- 팀원 : 오세연, 윤상현, 진승범, 최윤아
+- 데이터: PUGB - train_V2.csv, test_V2.csv, simple_submission_V2.csv
 - 역할: EDA, Modeling, Hyperparameter Tuning
 - 협업장소: 스파크 플러스
 - 소통: 스파크 플러스
 - 저장소: git
 - 개발환경: vscode, jupyter notebook, Anaconda
 - 언어 : python 3.9
-- 라이브러리: numpy, pandas
+- 라이브러리: numpy, pandas, sklearn, catboost
 - 시각화 라이브러리: seaborn, matplotlib.pyplot
