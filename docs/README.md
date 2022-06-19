@@ -8,9 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/86671456/171619107-8d5506bf-349e-4163-9694-c3ad99adac9d.png)
 
-<h2>주제 : PUBG Finish Placement Prediction (Kernels Only)</h2>
+<h2>주제 : <a href='https://www.kaggle.com/competitions/pubg-finish-placement-prediction/overview'>PUBG Finish Placement Prediction (Kernels Only)</a></h2>
 
-
+![image](https://storage.googleapis.com/kaggle-media/competitions/PUBG/PUBG%20Inlay.jpg)
 
 <h2> Abstract</h2>
 
