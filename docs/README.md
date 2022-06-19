@@ -40,12 +40,12 @@
 - 인원 : 5명
 - 팀장 : 문석민
 - 팀원 : 오세연, 윤상현, 진승범, 최윤아
-- 데이터: PUGB - train_V2.csv, test_V2.csv, simple_submission_V2.csv
-- 역할: EDA, Modeling, Hyperparameter Tuning
-- 협업장소: 스파크 플러스
-- 소통: 스파크 플러스
-- 저장소: git
-- 개발환경: vscode, jupyter notebook, Anaconda
+- 데이터 : PUGB - train_V2.csv, test_V2.csv, simple_submission_V2.csv
+- 역할 : EDA, Modeling, Hyperparameter Tuning
+- 협업장소 : 스파크 플러스
+- 소통 : 스파크 플러스
+- 저장소 : git
+- 개발환경 : vscode, jupyter notebook, Anaconda
 - 언어 : python 3.9
-- 라이브러리: numpy, pandas, sklearn, catboost
-- 시각화 라이브러리: seaborn, matplotlib.pyplot
+- 라이브러리 : numpy, pandas, sklearn, catboost
+- 시각화 라이브러리 : seaborn, matplotlib
