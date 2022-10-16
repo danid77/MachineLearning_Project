@@ -13,17 +13,17 @@
 ![image](https://storage.googleapis.com/kaggle-media/competitions/PUBG/PUBG%20Inlay.jpg)
 
 <h2> Abstract</h2>
-So, where we droppin' boys and girls?<br><br>
+So, where we droppin' boys and girls?
 
-Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, scavenge, and eliminate other<br> players until only one is left standing, all while the play zone continues to shrink.<br><br>
+Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, scavenge, and eliminate other players until only one is left standing, all while the play zone continues to shrink.
 
-PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. With over 50 million copies sold, it's the fifth best selling game of all time, and has millions<br> of active monthly players.<br><br>
+PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. With over 50 million copies sold, it's the fifth best selling game of all time, and has millions<br> of active monthly players.
 
-The team at PUBG has made official game data available for the public to explore and scavenge outside of "The Blue Circle." This competition is not an official or<br> affiliated PUBG site - Kaggle collected data made possible through the PUBG Developer API.<br><br>
+The team at PUBG has made official game data available for the public to explore and scavenge outside of "The Blue Circle." This competition is not an official or<br> affiliated PUBG site - Kaggle collected data made possible through the PUBG Developer API.
 
-You are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats<br> and initial player ratings.<br><br>
+You are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats<br> and initial player ratings.
 
-What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the<br> talking!<br>
+What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the<br> talking!
 <br>
 
 <h2> Machine Learning Project </h2>
